@@ -1,0 +1,1 @@
+importScripts('https://sdk.rsut.io/Scripts/push-sw.js');
